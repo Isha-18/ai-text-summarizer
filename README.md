@@ -3,6 +3,8 @@
 An AI-powered text summarization application built using **Python**, **Streamlit**, and the **Groq API**. The application generates concise summaries, key bullet points, and important keywords from long-form text using a Large Language Model (LLM).
 
 ---
+<img width="1766" height="907" alt="image" src="https://github.com/user-attachments/assets/7b72d700-ea55-4ea7-9f61-aee0d731992b" />
+
 
 ## 🚀 Features
 
